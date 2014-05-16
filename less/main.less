@@ -1,0 +1,39 @@
+
+// Colors
+@white:       #fff;
+@black:       #131313;
+@gray:        lighten(@black, 30%);
+
+
+// default dimensions
+@full-size:   100%;
+@one-half:    round((@full-size / 2), 3);
+@one-third:   round((@full-size / 3), 3);
+@one-fourth:  round((@full-size / 4), 3);
+@one-fifth:   round((@full-size / 5), 3);
+@one-sixth:   round((@full-size / 6), 3);
+@one-seventh: round((@full-size / 7), 3);
+@one-eighth:  round((@full-size / 8), 3);
+@one-ninth:   round((@full-size / 9), 3);
+@one-twelth:  round((@full-size / 12), 3);
+
+
+// page component dimensions
+@gutter:      10px;
+
+
+// component z-index scopes
+@z-page-level:  1000;
+@z-menu-level:  5000;
+@z-modal-level: 8000;
+
+
+
+@import "_mixins.less";
+
+
+* { .box-sizing(border-box); }
+
+
+@import "../components/normalize-less/normalize.less";
+@import "flexbox-framework.less";

@@ -1,0 +1,11 @@
+{
+  "curly": true,
+  "eqnull": true,
+  "eqeqeq": true,
+  "laxbreak": true,
+  "laxcomma": true,
+  "undef": true,
+  "globals": {
+    "jQuery": true
+  }
+}

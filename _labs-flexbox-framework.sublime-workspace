@@ -1,0 +1,1736 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"overflow",
+				"overflow-y"
+			],
+			[
+				"z-",
+				"z-menu-level"
+			],
+			[
+				"jshint",
+				"grunt-contrib-jshint"
+			],
+			[
+				"dump",
+				"dump pageModel quiet"
+			],
+			[
+				"current",
+				"currentMainImage"
+			],
+			[
+				"cdn",
+				"cdn-img"
+			],
+			[
+				"mod",
+				"dump model loud"
+			],
+			[
+				"cd",
+				"cdn"
+			],
+			[
+				"cat-list-",
+				"cat-list-div-dark"
+			],
+			[
+				"js",
+				"jshint"
+			],
+			[
+				"use",
+				"useAnimatedProductLists"
+			],
+			[
+				"so",
+				"SoftCartInstance"
+			],
+			[
+				"Soft",
+				"SoftCartInstance"
+			],
+			[
+				"editv",
+				"editViewFields"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"pos",
+				"pos-a	position: absolute;"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ps",
+				"pos-a	position: absolute;"
+			],
+			[
+				"overlf",
+				"overflow-y"
+			],
+			[
+				"run",
+				"runFrontendUI"
+			],
+			[
+				"projectdi",
+				"projectDirname"
+			],
+			[
+				"user",
+				"userIgnores"
+			],
+			[
+				"soft",
+				"SoftCart"
+			],
+			[
+				"order",
+				"ordercreated"
+			],
+			[
+				"serverTr",
+				"servertrustCheck"
+			],
+			[
+				"mozu",
+				"mozuSettings"
+			],
+			[
+				"ltr-",
+				"LTR-ZIPABH-BLK"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2129,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/main.less",
+			"settings":
+			{
+				"buffer_size": 811,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "less/_flexbox-framework.less",
+			"settings":
+			{
+				"buffer_size": 10,
+				"line_ending": "Windows",
+				"name": "_flexbox-framework.less"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1489,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 1576,
+				"line_ending": "Windows",
+				"name": "gruntfile.js"
+			}
+		},
+		{
+			"file": ".jshintrc",
+			"settings":
+			{
+				"buffer_size": 151,
+				"line_ending": "Windows",
+				"name": ".jshintrc"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 621,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/_mixins.less",
+			"settings":
+			{
+				"buffer_size": 3728,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"SNIPPET",
+				"Snippet: HYPR_youtube-feed"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"trailing",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"chang",
+				"ChangeQuotes"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"haxe",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"chane",
+				"ChangeQuotes"
+			],
+			[
+				"chan",
+				"ChangeQuotes"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"prefer",
+				"Preferences: MarkdownEditing Settings – Default"
+			],
+			[
+				"references",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"mard",
+				"Set Syntax: Markdown"
+			],
+			[
+				"md",
+				"Snippet: MD_README-starter-template"
+			],
+			[
+				"delete",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"space",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"djan",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"settings",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"syntaxmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"disbl",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"diabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"edit",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"setings",
+				"Preferences: Settings - User"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"change",
+				"ChangeQuotes"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"apach",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"pret",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"scope",
+				"Toggle ScopeAlways"
+			],
+			[
+				"scop",
+				"Toggle ScopeAlways"
+			],
+			[
+				"pre",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"djang",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"grunt",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"pewrr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"enal",
+				"Package Control: Enable Package"
+			],
+			[
+				"ww",
+				"Word Wrap: Toggle"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"prety",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"upate",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"feth",
+				"Fetch: File"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"dan",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"preferen",
+				"Preferences: Browse Packages"
+			],
+			[
+				"had",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"chn",
+				"ChangeQuotes"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"delet",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - User"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 567.0,
+		"history":
+		[
+			"view.syntax_name(view.sel()[0].begin())",
+			"print(view.syntax_name(view.sel()[0].begin()))",
+			"git",
+			"ls",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"cls",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/labs-flexbox-framework/.gitignore",
+		"/C/wamp/www/labs-flexbox-framework/package.json",
+		"/C/wamp/www/labs-flexbox-framework/less/_offcanvas-styles.less",
+		"/C/Users/Brandtley/AppData/Roaming/iFunBox.NXGen/temp_files/InfoPlist.strings",
+		"/C/Users/Brandtley/AppData/Roaming/iFunBox.NXGen/temp_files/punchquest",
+		"/C/Users/Brandtley/AppData/Roaming/iFunBox.NXGen/temp_files/README.md",
+		"/C/Users/Brandtley/AppData/Roaming/iFunBox.NXGen/temp_files/PkgInfo",
+		"/C/Users/Brandtley/AppData/Roaming/iFunBox.NXGen/temp_files/punchquest.supp",
+		"/C/Users/Brandtley/AppData/Roaming/iFunBox.NXGen/temp_files/punchquest.sinf",
+		"/C/Users/Brandtley/AppData/Roaming/iFunBox.NXGen/temp_files/com.rocketcat.PunchQuest.plist",
+		"/C/wamp/www/labs-flexbox-framework/README.md",
+		"/C/Users/Brandtley/Desktop/accounts.json",
+		"/F/Dropbox/bands/ptt_OLD/.dropbox",
+		"/C/Users/Brandtley/AppData/Roaming/iFunBox.NXGen/temp_files/mraid.js",
+		"/C/Users/Brandtley/AppData/Local/Temp/Temp1_bibliofile.zip/index.html",
+		"/C/Users/Brandtley/AppData/Roaming/iFunBox.NXGen/temp_files/com.ideateca.service.store.products",
+		"/C/Users/Brandtley/AppData/Roaming/iFunBox.NXGen/temp_files/IDTKPreferences.cf",
+		"/C/wamp/www/bibliofile/app.js",
+		"/C/wamp/www/bibliofile/bower.json",
+		"/C/wamp/www/bibliofile/_bibliophile.sublime-project",
+		"/C/wamp/www/bibliofile/package.json",
+		"/C/wamp/www/bibliofile/components/modernizr/feature-detects/quota-management-api.js",
+		"/C/wamp/www/bibliofile/css/main.css",
+		"/C/wamp/www/bibliofile/components/normalize-less/normalize.less",
+		"/C/wamp/www/bibliofile/.bowerrc",
+		"/C/wamp/www/bibliofile/js/cocoon.js",
+		"/C/wamp/www/bibliofile/cocoon_cocoonjsextensions/build/cocoon.js",
+		"/C/Users/Brandtley/Desktop/JSHint, a JavaScript Code Quality Tool_files/azcarbon_2_1_0_VERTDARK",
+		"/F/Dropbox/www/bibliofile/index.html",
+		"/F/Games/Steam/steamapps/common/Rocksmith/BassPack/GRExports/Generic/BringMeToLife_Bass.sng",
+		"/F/Dropbox/www/bibliofile/_bibliophile.sublime-project",
+		"/C/wamp/www/volusion/_github/acetool/desktop/tasks/grunt-zubacle.js",
+		"/C/wamp/www/volusion/_github/acetool/desktop/gruntfile.js",
+		"/C/wamp/www/volusion/_github/acetool/desktop/node_modules/zubacle/src/zubacle.js",
+		"/C/wamp/www/volusion/_github/acetool/desktop/package.json",
+		"/C/wamp/www/volusion/_github/acetool/_acetool.sublime-project",
+		"/C/wamp/www/Volusion/_github/acetool/desktop/theme.json",
+		"/C/wamp/www/Volusion/_github/acetool/mobile/templates/pages/homepage.hypr",
+		"/C/wamp/www/Volusion/_github/acetool/desktop/templates/pages/homepage.hypr",
+		"/C/wamp/www/Volusion/_github/acetool/desktop/templates/widgets/promo-panel.hypr",
+		"/C/wamp/www/Volusion/_github/acetool/desktop/stylesheets/is-editing.less",
+		"/C/wamp/www/Volusion/_github/acetool/desktop/stylesheets/widgets/promo-panel.less",
+		"/C/wamp/www/Volusion/_github/acetool/desktop/stylesheets/storefront.less",
+		"/C/wamp/www/Volusion/_github/acetool/desktop/gruntfile.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/stylesheets/state/is-saleprice.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/scripts/widgets/image.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/desktop/stylesheets/widgets/promo-panel.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/stylesheets/modules/product/product-options.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/templates/email/password-reset.hypr",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/desktop/templates/page.hypr",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/how-to-library/sublime-resources/snippets/hypr.sublime-completions",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/desktop/stylesheets/storefront.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/desktop/stylesheets/is-editing.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/desktop/templates/widgets/image.hypr",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/desktop/templates/widgets/promo-panel.hypr",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/templates/page.hypr",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/how-to-library/sublime-resources/snippets/HYPR_youtube-feed.sublime-snippet",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/stylesheets/modules/common/signup-popover.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/stylesheets/modules/site-nav.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/scripts/modules/scroll-nav.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/stylesheets/storefront.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/desktop/stylesheets/promotion-panel.hypr",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/mobile/scripts/vendor/slick/slick.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/desktop/gruntfile.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/scripts/modules/models-orders.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/scripts/widgets/deal-of-the-day.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/desktop/package.json",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/_design/main_mobile.css",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/templates/modules/my-account/my-account-wishlist-item-listing.hypr.live",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/scripts/modules/models-address.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/desktop/node_modules/grunt/package.json",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/desktop/node_modules/grunt/lib/grunt/cli.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/desktop/node_modules/grunt/lib/grunt/option.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/desktop/node_modules/grunt/lib/grunt.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/desktop/node_modules/grunt/lib/grunt/config.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/stylesheets/base/mixins.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/stylesheets/modules/page-header/cart-monitor.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/stylesheets/pages/category.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/stylesheets/email.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/desktop/stylesheets/main.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/.editorconfig",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/templates/modules/my-account/my-account-settings.hypr.live",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/scripts/modules/cart-monitor.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/scripts/modules/common.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/stylesheets/modules/my-account/account-paymentmethods.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/templates/modules/checkout/checkout-shipping-contact-selector.hypr.live",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/scripts/modules/models-cart.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/stylesheets/modules/common/form-step.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/mobile/templates/pages/home.hypr",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/mobile/theme.json",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/desktop/theme.json",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/mobile/gruntfile.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/theme.json",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/templates/pages/home.hypr",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/templates/modules/my-account/order-history-order-listing.hypr.live",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/mobile/build.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/mobile/stylesheets/main.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/README.md",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/scripts/modules/backbone-mozu-validation.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/templates/pages/parent-category.hypr",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/templates/email/product-return-authorized.hypr",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/Core4/scripts/modules/api.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/_design/main.css",
+		"/Users/brandtley_mcminn/Desktop/Win8x64.vmwarevm/Win8x64.vmx",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/theme.json",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/.bowerrc",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/_acetool.sublime-project",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/theme-ui.json",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/package.json",
+		"/Users/brandtley_mcminn/Dropbox/www/perl/main.pl",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/compiled/scripts/vendor/bootstrap-affix.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/build.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/scripts/vendor/slick/slick.jquery.json",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/compiled/scripts/widgets/store-locator.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/acetool/compiled/scripts/pages/search.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/seismic-audio/stylesheets/widgets/product-carousel.less",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/seismic-audio/scripts/modules/product-quickview.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/seismic-audio/templates/modules/product/product-detail.hypr.live",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/seismic-audio/templates/pages/product.hypr",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/seismic-audio/_pageContent/pro audio cable guide.md",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/seismic-audio/compiled/scripts/widgets/product-carousel.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/seismic-audio/templates/widgets/product-carousel/product-carousel.hypr",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/seismic-audio/scripts/widgets/product-carousel.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/seismic-audio/scripts/pages/product.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/seismic-audio/compiled/scripts/pages/search.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/seismic-audio/scripts/pages/search.js",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/seismic-audio/_seismic-audio.sublime-project",
+		"/Users/brandtley_mcminn/Dropbox/www/volusion/_github/seismic-audio/scripts/modules/shipping-time-estimator.js"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 91.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<open folders>, *.js",
+			"<open folders>, *.hypr",
+			"<open folders>, *.js",
+			"<open folders>, *.hypr",
+			"<open folders>",
+			"<open folders>, *.less",
+			"<open folders>, *.js",
+			"<open folders>",
+			"<open folders>, *.less",
+			"<open folders>, *.hypr",
+			"<open folders>, *.less",
+			"<open folders>",
+			"<open folders>, *.less",
+			"<open folders>",
+			"<open folders>, *.less",
+			"<open folders>, *.js",
+			"<open folders>, *.less",
+			"<open folders>, *.js",
+			"<open folders>, *.less",
+			"<open folders>, *.hypr",
+			"<open folders>, *.less",
+			"<open folders>",
+			"<open folders>, *.less",
+			"<open folders>",
+			"<open folders>,*.less",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"offscreen",
+			"flexbox",
+			"jsonlint",
+			"bowercopy",
+			"        ",
+			"less",
+			".js",
+			"concat",
+			"react",
+			"components",
+			"             ",
+			"normalize",
+			"modernizr",
+			"jquery",
+			"css",
+			"scripts",
+			"qunit",
+			"101010",
+			"010101",
+			"10101",
+			"101",
+			"ninth",
+			"seventh",
+			"half",
+			"tyles",
+			"_offcanvas",
+			"</",
+			"div",
+			"Navigation",
+			"navigation",
+			"none",
+			"hidden",
+			"inactive",
+			"window",
+			"transitionPrefixed",
+			"log",
+			"console",
+			"transitionPrefixed",
+			"project",
+			"moz",
+			"transition",
+			"webkit",
+			".transition(-webkit-transform);",
+			"0.3s",
+			"@arg;",
+			"@arg",
+			"subnav-panel",
+			"parent-nav-panel",
+			"subnav-panel",
+			"subnav",
+			">\n",
+			".parent-nav-panel",
+			"hidden",
+			"menu-overlay",
+			"navTrigger",
+			"background",
+			": ",
+			"all",
+			"removeClass",
+			"navTrigger",
+			"$navContainer",
+			"data",
+			"dataTrigger",
+			"offcanvas",
+			"navContainer",
+			"menu-overlay",
+			"mz",
+			"orange",
+			"balck",
+			"offscreen",
+			"abs-offcanvas-navi",
+			"offcanvas",
+			"offscreen",
+			"block",
+			"awesome",
+			"appcoantiner",
+			"e",
+			"app",
+			"json",
+			"compress",
+			"module",
+			"app",
+			"gruntfile",
+			"'**.js'",
+			"js",
+			"main",
+			"development",
+			"main",
+			"development",
+			"awesome",
+			"'recess'",
+			"round",
+			"height",
+			"half",
+			"build",
+			": ",
+			"0.9.2",
+			"100%",
+			"_normalize",
+			"bibli0file",
+			"js/",
+			",",
+			" : ",
+			"emoji",
+			"font",
+			"underscore",
+			"bootstrap",
+			"vendor",
+			"theme",
+			"stylesheets",
+			"_css",
+			"theme",
+			"templates",
+			"stylesheets",
+			"h: {\n    //   dumptag: {\n    //     files: {\n    //       src: ['templates/**/*.hypr', 'templates/**/*.hypr.live']\n    //     },\n    //     options: {\n    //       failOnMatch: true,\n    //       logFormat: 'console',\n    //       searchString: /\\{%\\s*dump/g\n    //     }\n    //   }\n    // }",
+			"desktop",
+			"zubat",
+			"seismiudio",
+			"https://raw.github.com/ericclemmons/genesis-skeleton",
+			"smarterspam",
+			"eric",
+			"eleton",
+			"genesis",
+			"Skeleton",
+			"Genesis",
+			"e",
+			"app",
+			"stylesheets"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"mz-has-sidebar",
+			"mz-not-has-sidebar",
+			"skewX",
+			"skewY",
+			"",
+			" ",
+			"$1:",
+			"$1",
+			":",
+			"url({{ siteContext.cdnPrefix }}/resources",
+			"src=\"{{ siteContext.cdnPrefix }}/resources",
+			"gray-dark",
+			"gray-light",
+			"gray-lighter",
+			"jquery-mozu"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								359,
+								312
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 78.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "less/main.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "less/_flexbox-framework.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"auto_name": "_flexbox-framework.less",
+							"is_xml": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								498,
+								498
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								689,
+								689
+							]
+						],
+						"settings":
+						{
+							"auto_name": "gruntfile.js",
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": ".jshintrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".jshintrc",
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 621,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								270,
+								270
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "less/_mixins.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 457.0
+	},
+	"project": "_labs-flexbox-framework.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app",
+				"js\\app.js"
+			],
+			[
+				"main.css",
+				"css\\main.css"
+			],
+			[
+				"grunt",
+				"acetool/desktop/gruntfile.js"
+			],
+			[
+				"is",
+				"acetool/desktop/stylesheets/is-editing.less"
+			],
+			[
+				"promo",
+				"acetool/desktop/templates/widgets/promo-panel.hypr"
+			],
+			[
+				"page",
+				"acetool/desktop/templates/page.hypr"
+			],
+			[
+				"theme",
+				"acetool/desktop/theme.json"
+			],
+			[
+				"grun",
+				"acetool/desktop/gruntfile.js"
+			],
+			[
+				"store",
+				"Core4/stylesheets/storefront.less"
+			],
+			[
+				"main.less",
+				"acetool/desktop/stylesheets/main.less"
+			],
+			[
+				"home.hyp",
+				"acetool/mobile/templates/pages/home.hypr"
+			],
+			[
+				"readd",
+				"acetool/README.md"
+			],
+			[
+				"package",
+				"acetool/desktop/package.json"
+			],
+			[
+				"bower",
+				".bowerrc"
+			],
+			[
+				"slick",
+				"scripts/vendor/slick/slick.jquery.json"
+			],
+			[
+				"produ",
+				"scripts/pages/product.js"
+			],
+			[
+				"product-",
+				"scripts/widgets/product-carousel.js"
+			],
+			[
+				"prodcut",
+				"scripts/pages/product.js"
+			],
+			[
+				"search",
+				"templates/pages/search-results.hypr"
+			],
+			[
+				"category",
+				"stylesheets/pages/category.less"
+			],
+			[
+				"slide",
+				"templates/widgets/home/slideshow.hypr"
+			],
+			[
+				"facets",
+				"stylesheets/modules/facets.less"
+			],
+			[
+				"facet",
+				"scripts/modules/facet-panel.js"
+			],
+			[
+				"facet-",
+				"templates/modules/product/faceting-form.hypr.live"
+			],
+			[
+				"facet-panel",
+				"scripts/modules/facet-panel.js"
+			],
+			[
+				"face",
+				"stylesheets/modules/facets.less"
+			],
+			[
+				"product.less",
+				"stylesheets/pages/product.less"
+			],
+			[
+				"variables",
+				"stylesheets/libraries/font-awesome/variables.less"
+			],
+			[
+				"font",
+				"stylesheets/base/webfonts.less"
+			],
+			[
+				"typo",
+				"stylesheets/base/typography.less"
+			],
+			[
+				"nav-prim",
+				"scripts/modules/nav-primary-banner.js"
+			],
+			[
+				"nav-primary",
+				"stylesheets/modules/nav-primary.less"
+			],
+			[
+				"",
+				"templates/modules/common/credit-card-form.hypr.live"
+			],
+			[
+				"theme-ui",
+				"seismic-audio/theme-ui.json"
+			],
+			[
+				"stick",
+				"seismic-audio/stylesheets/widgets/sticky-footer.less"
+			],
+			[
+				"theme.json",
+				"seismic-audio/theme.json"
+			],
+			[
+				"head-tag",
+				"seismic-audio/templates/modules/head-tag.hypr"
+			],
+			[
+				"page.h",
+				"seismic-audio/templates/page.hypr"
+			],
+			[
+				"checkout.less",
+				"seismic-audio/stylesheets/pages/checkout.less"
+			],
+			[
+				"bill",
+				"seismic-audio/templates/modules/checkout/billing-credit-card-form.hypr.live"
+			],
+			[
+				"payment-info",
+				"seismic-audio/templates/modules/checkout/step-payment-info.hypr.live"
+			],
+			[
+				"checkout",
+				"seismic-audio/templates/pages/checkout.hypr"
+			],
+			[
+				"trailing",
+				"seismic-audio/templates/modules/trailing-scripts.hypr"
+			],
+			[
+				"wrap",
+				"seismic-audio/templates/widgets/home/reviews-panel.hypr"
+			],
+			[
+				"chan",
+				"seismic-audio/templates/modules/analytics/channel-advisor-tracking-code.hypr.live"
+			],
+			[
+				"head",
+				"seismic-audio/templates/modules/head-tag.hypr"
+			],
+			[
+				"sticky-fo",
+				"seismic-audio/stylesheets/widgets/sticky-footer.less"
+			],
+			[
+				"fancy",
+				"seismic-audio/stylesheets/modules/common/fancy-box.less"
+			],
+			[
+				"chekcout",
+				"seismic-audio/templates/pages/checkout.hypr"
+			],
+			[
+				"login",
+				"seismic-audio/templates/modules/modal-login.hypr.live"
+			],
+			[
+				"homepage",
+				"seismic-audio/stylesheets/pages/homepage.less"
+			],
+			[
+				"auxi",
+				"seismic-audio/templates/modules/nav-auxiliary.hypr"
+			],
+			[
+				"page-header",
+				"seismic-audio/templates/modules/page-header.hypr"
+			],
+			[
+				"main.ss",
+				"seismic-audio/_css/main.css"
+			],
+			[
+				"main",
+				"seismic-audio/stylesheets/main.less"
+			],
+			[
+				"dealof",
+				"seismic-audio/templates/pages/deal-of-the-day.hypr"
+			],
+			[
+				"sticky",
+				"seismic-audio/stylesheets/widgets/sticky-footer.less"
+			],
+			[
+				"who",
+				"templates/widgets/home/about-panel.hypr"
+			],
+			[
+				"youtube",
+				"templates/widgets/home/youtubefeed.hypr"
+			],
+			[
+				"blue",
+				"stylesheets/modules/buttons.less"
+			],
+			[
+				"review",
+				"templates/widgets/home/reviews-panel.hypr"
+			],
+			[
+				"product-car",
+				"templates/widgets/product-carousel/product-carousel-list.hypr"
+			],
+			[
+				"page-numb",
+				"stylesheets/modules/page-numbers.less"
+			],
+			[
+				"quickview",
+				"stylesheets/modules/modal-quickview.less"
+			],
+			[
+				"product.hyp",
+				"templates/pages/product.hypr"
+			],
+			[
+				"product",
+				"templates/pages/product.hypr"
+			],
+			[
+				"homeapge",
+				"stylesheets/pages/homepage.less"
+			],
+			[
+				"slideshow",
+				"scripts/widgets/slideshow.js"
+			],
+			[
+				"view",
+				"scripts/modules/views-paging.js"
+			],
+			[
+				"pagin",
+				"templates/modules/common/paging-controls.hypr.live"
+			],
+			[
+				"product-list",
+				"templates/modules/product/product-listing.hypr.live"
+			],
+			[
+				"product-list-",
+				"templates/modules/product/product-list-tiled.hypr.live"
+			],
+			[
+				"theme.j",
+				"theme.json"
+			],
+			[
+				"proces",
+				"_nonsense/process.php"
+			],
+			[
+				"page-fo",
+				"templates/modules/page-footer.hypr"
+			],
+			[
+				"page-foo",
+				"templates/modules/page-footer.hypr"
+			],
+			[
+				"themeui",
+				"theme-ui.json"
+			],
+			[
+				"bazar",
+				"scripts/modules/bazaar-voice.js"
+			],
+			[
+				"nav-aux",
+				"templates/modules/nav-auxiliary.hypr"
+			],
+			[
+				"page-h",
+				"templates/modules/page-header.hypr"
+			],
+			[
+				"live",
+				"scripts/widgets/livechat.js"
+			],
+			[
+				"page-footer",
+				"templates/modules/page-footer.hypr"
+			],
+			[
+				"page.",
+				"templates/page.hypr"
+			],
+			[
+				"baz",
+				"scripts/modules/bazaar-voice.js"
+			],
+			[
+				"product-carou",
+				"templates/widgets/product-carousel/product-carousel-list.hypr"
+			],
+			[
+				"why",
+				"_pageContent/why siesmic audio.md"
+			],
+			[
+				"pro",
+				"_pageContent/pro audio cable guide.md"
+			],
+			[
+				"main.les",
+				"stylesheets/main.less"
+			],
+			[
+				"bread",
+				"templates/modules/breadcrumbs.hypr"
+			],
+			[
+				"cate",
+				"stylesheets/pages/category.less"
+			],
+			[
+				"gr",
+				"gruntfile.js"
+			],
+			[
+				"proaudio",
+				"_pageContent/Pro Audio Cable Guide.md"
+			],
+			[
+				"prou",
+				"templates/modules/product/product-images.hypr.live"
+			],
+			[
+				"product-deta",
+				"templates/modules/product/product-detail.hypr.live"
+			],
+			[
+				"shame",
+				"stylesheets/shame.less"
+			],
+			[
+				"nav-au",
+				"templates/modules/nav-auxiliary.hypr"
+			],
+			[
+				"page-head",
+				"templates/modules/page-header.hypr"
+			],
+			[
+				"socil",
+				"templates/modules/social-links.hypr"
+			],
+			[
+				"mail",
+				"templates/modules/mailing-list.hypr"
+			],
+			[
+				"var",
+				"stylesheets/modules/variables.less"
+			],
+			[
+				"main.es",
+				"stylesheets/main.less"
+			],
+			[
+				"youtu",
+				"scripts/widgets/youtubefeed.js"
+			],
+			[
+				"fancy-",
+				"stylesheets/modules/common/fancy-box.less"
+			],
+			[
+				"cateogry",
+				"stylesheets/pages/category.less"
+			],
+			[
+				"parent",
+				"templates/pages/parent-category.hypr"
+			],
+			[
+				"faceted-pr",
+				"templates/modules/product/faceted-products.hypr"
+			],
+			[
+				"faceted",
+				"templates/modules/product/faceted-products.hypr"
+			],
+			[
+				"categ",
+				"templates/pages/category.hypr"
+			],
+			[
+				"product-caro",
+				"templates/widgets/product-carousel/product-carousel-list.hypr"
+			],
+			[
+				"sham",
+				"stylesheets/shame.less"
+			],
+			[
+				"home",
+				"stylesheets/pages/homepage.less"
+			],
+			[
+				"views-prod",
+				"scripts/modules/views-productlists.js"
+			],
+			[
+				"haeder",
+				"templates/modules/page-header.hypr"
+			],
+			[
+				"footer",
+				"templates/modules/page-footer.hypr"
+			],
+			[
+				"social",
+				"templates/modules/social-links.hypr"
+			],
+			[
+				"md",
+				"CHANGELOG.md"
+			],
+			[
+				"js",
+				"scripts/modules/modal.js"
+			],
+			[
+				"sticky-foo",
+				"templates/widgets/sticky-footer/sticky-footer.hypr"
+			],
+			[
+				"packages",
+				"stylesheets/pages/packages.less"
+			],
+			[
+				"homep",
+				"stylesheets/pages/homepage.less"
+			],
+			[
+				"packagse",
+				"templates/widgets/landing-pages/packages-list.hypr"
+			],
+			[
+				"packags",
+				"templates/widgets/landing-pages/packages-list.hypr"
+			],
+			[
+				"widget",
+				"scripts/widgets/packages-list.js"
+			],
+			[
+				"product-carousel-list",
+				"templates/widgets/product-carousel/product-carousel-list.hypr"
+			],
+			[
+				"homepa",
+				"stylesheets/pages/homepage.less"
+			],
+			[
+				"categor",
+				"templates/pages/category.hypr"
+			],
+			[
+				"cateog",
+				"stylesheets/pages/category.less"
+			],
+			[
+				"video",
+				"templates/testing/home-video-panel.hypr"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\wamp\\www\\bibliofile\\_bibliophile.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 301.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

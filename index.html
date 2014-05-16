@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox Framework Prototype</title>
+    <meta name="description" content="Flexbox based UI Framework built with HTML/CSS3" />
+    <meta name="keywords" content="user interface, framework, flexbox, LESS, html5, mobile" />
+    <meta name="author" content="GiggleboxStudios" />
+    <!-- <link rel="shortcut " href="../fav.ico"> -->
+    <!-- <link rel="stylesheet" type="text/css" href="css/main.css" /> -->
+    <link rel="stylesheet/less" type="text/css" href="less/main.less" />
+    <script src="js/vendor/modernizr.js"></script>
+  </head>
+
+
+  <body>
+
+    <div class="container">
+
+      <div class="flex-wrapper">
+
+        <header class="flex-header">
+          <h1 class="flex-cell">App Title Here</h1>
+        </header>
+
+
+        <div class="flex-main" role="main">
+          some content here
+        </div>
+
+
+        <div class="flex-sidebar">
+          <nav role="navigation">
+            <ul>
+              <li><button>Button Text</button></li>
+              <li><button>Button Text</button></li>
+              <li><button>Button Text</button></li>
+              <li><button>Button Text</button></li>
+              <li><button>Button Text</button></li>
+              <li><button>Button Text</button></li>
+            </ul>
+          </nav>
+        </div>
+
+
+        <footer class="flex-footer">
+          &copy; 2014 Copyright Info here.
+        </footer>
+
+      </div>
+
+    </div>
+
+    <script>
+      less = {
+        env: "development"
+      , async: false
+      , fileAsync: false
+      , poll: 1000
+      , functions: {}
+      , dumpLineNumbers: "comments"
+      , relativeUrls: false
+      // , rootpath: ":/a.com/"
+      };
+    </script>
+    <script type="text/javascript" src="js/vendor/less-1.7.0.min.js"></script>
+    <script type="text/javascript" src="js/vendor/jquery.min.js"></script>
+    <script type="text/javascript" src="js/offcanvas-nav.js"></script>
+
+  </body>
+</html>

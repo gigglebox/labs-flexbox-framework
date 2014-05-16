@@ -1,0 +1,64 @@
+
+// supported vendor prefixes [_mixins.less]
+@webkit:  true;
+@moz:     true;
+@ms:      true;
+
+
+// default params
+@anim-duration: 0.3s;
+@anim-type: linear;
+
+
+.box-sizing(@arg: border-box) when (@webkit = true)       { -webkit-box-sizing: @arg; }
+.box-sizing(@arg: border-box) when (@moz    = true)       { -moz-box-sizing: @arg; }
+.box-sizing(@arg: border-box) when (@ms     = true)       { -ms-box-sizing: @arg; }
+.box-sizing(@arg: border-box)                             { box-sizing: @arg; }
+
+
+.appearance(@arg: none) when (@webkit = true)             { -webkit-appearance: @arg; }
+.appearance(@arg: none) when (@moz    = true)             { -moz-appearance: @arg; }
+.appearance(@arg: none) when (@ms     = true)             { -ms-appearance: @arg; }
+.appearance(@arg: none)                                   { appearance: @arg; }
+
+
+.transition(@arg: all, @rest: @anim-duration @anim-type) when (@webkit = true)  { -webkit-transition: @arg @rest; }
+.transition(@arg: all, @rest: @anim-duration @anim-type) when (@moz    = true)  { -moz-transition: @arg @rest; }
+.transition(@arg: all, @rest: @anim-duration @anim-type) when (@ms     = true)  { -ms-transition: @arg @rest; }
+.transition(@arg: all, @rest: @anim-duration @anim-type)                        { transition: @arg @rest; }
+
+
+.transitionPrefixed(@arg: all, @rest: @anim-duration @anim-type) when (@webkit = true)  { -webkit-transition: ~"-webkit-@{arg} @{rest}"; }
+.transitionPrefixed(@arg: all, @rest: @anim-duration @anim-type) when (@moz    = true)  { -moz-transition: ~"-moz-@{arg} @{rest}"; }
+.transitionPrefixed(@arg: all, @rest: @anim-duration @anim-type) when (@ms     = true)  { -ms-transition: ~"-ms-@{arg} @{rest}"; }
+.transitionPrefixed(@arg: all, @rest: @anim-duration @anim-type)                        { transition: @arg @rest; }
+
+
+.translate(@x:0, @y:0) when (@webkit = true)              { -webkit-transform: translate(@x, @y); }
+.translate(@x:0, @y:0) when (@moz    = true)              { -moz-transform: translate(@x, @y); }
+.translate(@x:0, @y:0) when (@ms     = true)              { -ms-transform: translate(@x, @y); }
+.translate(@x:0, @y:0)                                    { transform: translate(@x, @y); }
+
+
+.translateX(@x:0) when (@webkit  = true)                  { -webkit-transform: translateX(@x); }
+.translateX(@x:0) when (@moz     = true)                  { -moz-transform: translateX(@x); }
+.translateX(@x:0) when (@ms      = true)                  { -ms-transform: translateX(@x); }
+.translateX(@x:0)                                         { transform: translateX(@x); }
+
+
+.translateY(@y:0) when (@webkit  = true)                  { -webkit-transform: translateY(@y); }
+.translateY(@y:0) when (@moz     = true)                  { -moz-transform: translateY(@y); }
+.translateY(@y:0) when (@ms      = true)                  { -ms-transform: translateY(@y); }
+.translateY(@y:0)                                         { transform: translateY(@y); }
+
+
+.translateZ(@z:0) when (@webkit  = true)                  { -webkit-transform: translateZ(@z); }
+.translateZ(@z:0) when (@moz     = true)                  { -moz-transform: translateZ(@z); }
+.translateZ(@z:0) when (@ms      = true)                  { -ms-transform: translateZ(@z); }
+.translateZ(@z:0)                                         { transform: translateZ(@z); }
+
+
+.translate3d(@x:0, @y:0, @z:0) when (@webkit = true)      { -webkit-transform: translate3d(@x, @y, @z); }
+.translate3d(@x:0, @y:0, @z:0) when (@moz    = true)      { -moz-transform: translate3d(@x, @y, @z); }
+.translate3d(@x:0, @y:0, @z:0) when (@ms     = true)      { -ms-transform: translate3d(@x, @y, @z); }
+.translate3d(@x:0, @y:0, @z:0)                            { transform: translate3d(@x, @y, @z); }

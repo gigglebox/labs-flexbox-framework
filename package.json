@@ -1,0 +1,22 @@
+{
+  "name": "labs-flexbox-framework"
+, "version": "0.0.1"
+, "authors": [
+    "Brandtley McMinn <labs@giggleboxstudios.net>"
+  ]
+
+, "description": "Flexbox based UI Framework built with HTML/CSS3"
+, "homepage": "https://github.com/GiggleboxStudios/labs-flexbox-framework"
+, "license": "MIT"
+
+, "dependencies": {
+    "grunt":                      "*"
+  , "grunt-cli":                  "*"
+  , "grunt-contrib-jshint":       "*"
+  , "grunt-contrib-concat":       "*"
+  , "grunt-contrib-watch":        "*"
+  , "grunt-bowercopy":            "*"
+  , "grunt-jsonlint":             "*"
+  , "grunt-bower-install-simple": "*"
+  }
+}
